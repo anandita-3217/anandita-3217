@@ -240,26 +240,23 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
   </table>
 </div>
 
-<!--## 🎓 Certifications
+<!--### 📈 Contribution Graph
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CS50_Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="CS50 Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CS50_Web-red?style=for-the-badge&logo=edx&logoColor=white" alt="CS50 Web"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data_Science_with_Python-4285F4?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cisco_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
-</div>
--->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandita-3217&theme=rogue&hide_border=true" alt="Anandita's GitHub activity graph" />
+</div>-->
+
 ### 🔝 Top Contributed Repos
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
 ---
-<div align="center">
+<!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=anandita-3217&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <br/>
   
-</div>
+  
+</div>-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and enhanced by Anandita -->
