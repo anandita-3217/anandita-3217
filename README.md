@@ -172,7 +172,7 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
       <td width="50%">
         <h3 align="center">DeepFake Image Detection</h3>
         <div align="center">
-          <a href="https://github.com/anandita-3217/deepfake-detection" target="_blank">
+          <a href="https://github.com/anandita-3217/DeepFakeDetectionProject" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Repository Link" height="30" width="30">
           </a>
         </div>
@@ -185,7 +185,7 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
       <td width="50%">
         <h3 align="center">FoodieExpress</h3>
         <div align="center">
-          <a href="https://github.com/anandita-3217/foodie-express" target="_blank">
+          <a href="https://github.com/anandita-3217/FoodieExpress" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Repository Link" height="30" width="30">
           </a>
         </div>
@@ -200,7 +200,7 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
       <td width="50%">
         <h3 align="center">FlashLearn</h3>
         <div align="center">
-          <a href="https://github.com/anandita-3217/flashlearn" target="_blank">
+          <a href="https://github.com/anandita-3217/FlashcardApp_with_Kivy" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Repository Link" height="30" width="30">
           </a>
         </div>
