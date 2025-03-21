@@ -109,9 +109,9 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anandita-3217&style=flat-square&color=blueviolet" alt="Profile Views" />
   <br>
-  <a href="https://www.buymeacoffee.com/anandita" target="_blank">
+<!--  <a href="https://www.buymeacoffee.com/anandita" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 160px !important;" >
-  </a>
+  </a>-->
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and enhanced by Anandita -->
