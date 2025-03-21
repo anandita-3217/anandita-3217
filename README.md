@@ -21,12 +21,12 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=anandita-3217&theme=omni&hide_border=false)<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/> 
+<br/> --->
 
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true)--->
+![](https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
 # Hi! I'm Anandita 👋
 
@@ -100,10 +100,10 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
   <img src="https://activity-graph.herokuapp.com/graph?username=anandita-3217&theme=react-dark" alt="Activity Graph" width="100%" />
 </div>
 
-### 🏆 GitHub Trophies
+<!---### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anandita-3217&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+</div>--->
 
 ---
 <div align="center">
