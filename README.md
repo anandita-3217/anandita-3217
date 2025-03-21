@@ -2,7 +2,11 @@
 
 
 ## 💫 About Me:
-🔭I’m currently working on getting a job<br>🌱 I’m currently learning SpringBOOT<br>🤔 I’m looking for help with Understang and using GenAI better<br><br><br>
+🔭I’m currently working on getting a job<br>
+🌱 I’m currently learning SpringBOOT<br>
+🤔 I’m looking for help with Understang and using GenAI better<br>
+Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
+<br><br>
 
 
 ## 🌐 Socials:
