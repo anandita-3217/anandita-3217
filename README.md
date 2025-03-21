@@ -25,8 +25,8 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true)
+<!---### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true)--->
 
 # Hi! I'm Anandita 👋
 
