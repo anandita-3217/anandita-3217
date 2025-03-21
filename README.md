@@ -1,7 +1,7 @@
 # Hi! I'm Anandita 👋
 
 
-##💫 About Me:
+## 💫 About Me:
 🔭I’m currently working on getting a job<br>
 🌱 I’m currently learning SpringBOOT<br>
 🤔 I’m looking for help with Understang and using GenAI better<br><br><br>
