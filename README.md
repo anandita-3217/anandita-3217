@@ -113,7 +113,7 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 160px !important;" >
   </a>
 </div>-->
-# Hi! I'm Anandita 👋
+# Hi! I'm Anandita ✨
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9D36B2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Science+Enthusiast;+Django+Developer;AI%2FML+Practitioner;" alt="Typing SVG" />
