@@ -227,7 +227,6 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
     <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api?username=anandita-3217;theme=omni&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats">
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
