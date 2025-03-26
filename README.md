@@ -232,7 +232,7 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
         
-      </td>
+   </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
