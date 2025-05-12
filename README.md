@@ -220,7 +220,13 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
     </tr>
   </table>
 </div>
-
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anandita-3217/anandita-3217/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anandita-3217/anandita-3217/blob/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://github.com/anandita-3217/anandita-3217/blob/output/github-snake.svg">
+</picture>
+---
 ## 📊 GitHub Stats:
 <div align="center">
   <table>
