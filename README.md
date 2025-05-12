@@ -119,7 +119,7 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9D36B2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Science+Enthusiast;+Django+Developer;AI%2FML+Practitioner;" alt="Typing SVG" />
 </div>
 
-## 💫 About Me:
+## 💫 About Me
 - 🔭 I'm currently seeking software development opportunities
 - 🎓 B.Tech in Computer Science and Engineering 
 - 🌱 I'm currently advancing my Spring Boot skills
@@ -220,13 +220,13 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
     </tr>
   </table>
 </div>
----
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anandita-3217/anandita-3217/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/anandita-3217/anandita-3217/blob/output/github-snake.svg">
   <img alt="GitHub Snake Animation" src="https://github.com/anandita-3217/anandita-3217/blob/output/github-snake.svg">
 </picture>
----
+
 ## 📊 GitHub Stats:
 <div align="center">
   <table>
