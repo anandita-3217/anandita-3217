@@ -125,7 +125,7 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
 - 🌱 I'm currently advancing my Spring Boot skills
 - 🤔 I'm exploring cutting-edge GenAI applications
 - 🎨 Check out my UI components on [UIverse](https://uiverse.io/profile/anandita-3217) and [Codepen](https://codepen.io/anandita-3217)
-- 📚 Former Student Editor of College Magazine, Gayatri Sumam
+<!--- - 📚 Former Student Editor of College Magazine, Gayatri Sumam --->
 
 
 ## 🌐 Socials:
