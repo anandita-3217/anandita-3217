@@ -123,8 +123,9 @@ Check out my work on [UIverse](https://uiverse.io/profile/anandita-3217)<br>
 - 🔭 I'm currently seeking software development opportunities
 - 🎓 B.Tech in Computer Science and Engineering 
 - 🌱 I'm currently advancing my Spring Boot skills
-<!--- - 🤔 I'm exploring cutting-edge GenAI applications --->
 - 🎨 Check out my UI components on [UIverse](https://uiverse.io/profile/anandita-3217) and [Codepen](https://codepen.io/anandita-3217)
+<!--- - 🤔 I'm exploring cutting-edge GenAI applications --->
+
 <!--- - 📚 Former Student Editor of College Magazine, Gayatri Sumam --->
 
 
