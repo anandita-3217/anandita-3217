@@ -5,11 +5,12 @@
 </div>
 --->
 ## About Me
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
+
 - 🔭 I'm currently seeking software development opportunities
 - 🎓 B.Tech in Computer Science and Engineering 
 - 🌱 I'm currently advancing my Spring Boot skills
 - 🎨 Check out my UI components on [UIverse](https://uiverse.io/profile/anandita-3217) and [Codepen](https://codepen.io/anandita-3217)
-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 <!--- - 🤔 I'm exploring cutting-edge GenAI applications --->
 
 <!--- - 📚 Former Student Editor of College Magazine, Gayatri Sumam --->
