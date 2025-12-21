@@ -117,7 +117,15 @@
   <img alt="GitHub Snake Animation" src="https://github.com/anandita-3217/anandita-3217/blob/main/dist/github-snake.svg">
 </picture>
 
-## 📊 GitHub Stats:
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+   <b>Stats Overview</b>
+
+  
+  </summary>
+
+
 <div align="center">
   <table>
     <tr>
@@ -146,7 +154,7 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
-
+</details>
 ---
 <!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=anandita-3217&style=flat-square&color=blueviolet" alt="Profile Views" />
