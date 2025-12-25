@@ -145,16 +145,16 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+</details>
 <!--### 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandita-3217&theme=rogue&hide_border=true" alt="Anandita's GitHub activity graph" />
 </div>-->
 
-### 🔝 Top Contributed Repos
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-</details>
+
 ---
 <!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=anandita-3217&style=flat-square&color=blueviolet" alt="Profile Views" />
