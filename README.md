@@ -111,11 +111,11 @@
 </div>
 
 ## Contributions
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anandita-3217/anandita-3217/blob/main/dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/anandita-3217/anandita-3217/blob/main/dist/github-snake.svg">
   <img alt="GitHub Snake Animation" src="https://github.com/anandita-3217/anandita-3217/blob/main/dist/github-snake.svg">
-</picture>
+</picture> -->
 
 <details>
   <summary>
