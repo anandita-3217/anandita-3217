@@ -14,7 +14,7 @@
 
 <!--- - 📚 Former Student Editor of College Magazine, Gayatri Sumam --->
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anandita-3217)](https://git.io/streak-stats)
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Socials:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandita-dakshayani-9621a0199) 
