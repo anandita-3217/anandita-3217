@@ -130,7 +130,8 @@
   <table>
     <tr>
       <td width="50%">
-        <!-- <img src="https://github-readme-stats.vercel.app/api?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->[![GitHub Streak](https://streak-stats.demolab.com?user=anandita-3217&theme=deuteranopia-friendly-theme)](https://git.io/streak-stats)
+        
+<img src="https://github-readme-stats.vercel.app/api?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
@@ -139,7 +140,9 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=anandita-3217&theme=omni&hide_border=false" alt="GitHub Streak" />
+        <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=anandita-3217&theme=omni&hide_border=false" alt="GitHub Streak" /> -->
+        <img src="https://streak-stats.demolab.com?user=anandita-3217&theme=omni"/>
+
       </td>
     </tr>
   </table>
