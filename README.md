@@ -140,8 +140,8 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=anandita-3217&theme=omni&hide_border=false" alt="GitHub Streak" /> -->
-        <img src="https://streak-stats.demolab.com?user=anandita-3217&theme=omni"/>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=anandita-3217&theme=omni&hide_border=false" alt="GitHub Streak" />
+        <!-- <img src="https://streak-stats.demolab.com?user=anandita-3217&theme=omni"/> -->
 
       </td>
     </tr>
