@@ -150,11 +150,19 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 </details>
-### 📈 Contribution Graph
+<!-- ###📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandita-3217&theme=rogue&hide_border=true" alt="Anandita's GitHub activity graph" />
-</div>-
+</div>- -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anandita-3217&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anandita-3217&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandita-3217&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=anandita-3217&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 <!--<div align="center">
