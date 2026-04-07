@@ -141,8 +141,6 @@
     <tr>
       <td colspan="2" align="center">
         <img src="https://nirzak-streak-stats.vercel.app/?user=anandita-3217&theme=omni&hide_border=false" alt="GitHub Streak" />
-        <!-- <img src="https://streak-stats.demolab.com?user=anandita-3217&theme=omni"/> -->
-
       </td>
     </tr>
   </table>
@@ -152,10 +150,10 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=anandita-3217&limit=5&theme=omni&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 </details>
-<!--### 📈 Contribution Graph
+### 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandita-3217&theme=rogue&hide_border=true" alt="Anandita's GitHub activity graph" />
-</div>-->
+</div>-
 
 
 ---
