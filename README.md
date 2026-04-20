@@ -140,7 +140,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=anandita-3217&theme=synthwave&hide_border=false" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=anandita-3217&theme=omni&hide_border=false" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
