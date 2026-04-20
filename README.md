@@ -131,7 +131,7 @@
     <tr>
       <td width="50%">
         
-<img src="https://github-readme-stats.vercel.app/api?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
+<img src="https://github-readme-stats.shion.dev/api?username=anandita-3217&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> 
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandita-3217&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
