@@ -7,7 +7,7 @@
   <br/>
 - 🎓 B.Tech in Computer Science and Engineering
   <br/>
-- 🌱 I'm currently advancing my Spring Boot skills
+- 🌱 I'm currently advancing my React skills
   <br/>
 - 🎨 Check out my UI components on [UIverse](https://uiverse.io/profile/anandita-3217) and [Codepen](https://codepen.io/anandita-3217)
 <!--- - 🤔 I'm exploring cutting-edge GenAI applications --->
